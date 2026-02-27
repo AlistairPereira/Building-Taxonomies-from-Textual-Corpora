@@ -45,18 +45,18 @@ Semantic: Cosine Similarity, BERTScore
 Train–Test split to simulate real-world deployment
 
 **🧠 Key Contributions**
-Fully unsupervised hierarchical taxonomy construction
-Multi-level clustering (C → B → A)
-LLaMA-driven automatic category naming
-Combined structural + semantic evaluation
+Fully unsupervised hierarchical taxonomy construction,
+Multi-level clustering (C → B → A),
+LLaMA-driven automatic category naming,
+Combined structural + semantic evaluation,
 Realistic train–test simulation
 
 **🛠️ Tech Stack**
-Python
-SentenceTransformers
-UMAP
-OPTICS
-Agglomerative Clustering
-LLaMA (LLM-based naming)
-Scikit-learn
-BERTScore
+Python,
+SentenceTransformers,
+UMAP,
+OPTICS,
+Agglomerative Clustering,
+LLaMA (LLM-based naming),
+Scikit-learn,
+BERTScore.
