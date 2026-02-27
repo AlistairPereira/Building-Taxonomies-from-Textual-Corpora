@@ -22,8 +22,8 @@ Cleaning and normalization of product metadata
 
 **2️ Sentence Embeddings (SBERT)**
 Models compared:
-all-MiniLM-L6-v2
-multi-qa-mpnet-base-dot-v1
+all-MiniLM-L6-v2,
+multi-qa-mpnet-base-dot-v1,
 all-mpnet-base-v2 ✅ (Selected)
 Embeddings capture semantic similarity between products.
 
