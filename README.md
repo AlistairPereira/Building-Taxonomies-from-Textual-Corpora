@@ -6,7 +6,7 @@ The file contains heavy computations (embeddings and clustering), which may exce
 
 **Master’s Thesis Project – Applied Data Science**
 This project builds a multi-level product taxonomy automatically using sentence embeddings, clustering algorithms, and a Large Language Model (LLaMA) for category naming.
-The system constructs a hierarchy (C → B → A) directly from product descriptions — without manually defining category rules.
+The system constructs a hierarchy (C → B → A) directly from product descriptions without manually defining category rules.
 
 **🚀 Problem**
 Large product catalogs require structured taxonomies.
