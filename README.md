@@ -15,7 +15,9 @@ This project proposes a fully data-driven pipeline to automatically generate a h
 
 **🏗️ Methodology**
 The framework follows a bottom-up approach:
-1️⃣ Text Preprocessing
+
+
+**1️ Text Preprocessing**
 Cleaning and normalization of product metadata
 
 **2️ Sentence Embeddings (SBERT)**
